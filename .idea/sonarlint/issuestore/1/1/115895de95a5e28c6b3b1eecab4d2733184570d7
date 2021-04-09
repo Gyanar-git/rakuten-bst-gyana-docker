@@ -1,0 +1,8 @@
+
+:
+java:S2629"$Invoke method(s) only conditionally.(온�
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ȶ˚
+w
+java:S3457"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(온�

@@ -1,0 +1,17 @@
+
+?
+java:S2629H"$Invoke method(s) only conditionally.(€íäÜüÿÿÿÿ
+:
+java:S2629Q"$Invoke method(s) only conditionally.(£ÜÙŠ
+?
+java:S2629Z"$Invoke method(s) only conditionally.(¶Ñ‡½ýÿÿÿÿ
+Z
+java:S2583Q"DChange this condition so that it does not always evaluate to "false"(£ÜÙŠ
+_
+java:S2583Z"DChange this condition so that it does not always evaluate to "false"(¶Ñ‡½ýÿÿÿÿ
+|
+java:S3457H"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(€íäÜüÿÿÿÿ
+w
+java:S3457Q"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(£ÜÙŠ
+|
+java:S3457Z"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(¶Ñ‡½ýÿÿÿÿ
